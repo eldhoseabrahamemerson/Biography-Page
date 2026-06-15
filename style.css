@@ -1,0 +1,36 @@
+body{
+    background-color: #f0f0f0;
+}
+header{
+    text-align: center;
+}
+header img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(15, 56, 237, 0.893);
+    font-family: Arial, sans-serif;
+}
+section{
+    margin: 20px 0;
+}
+section h2{
+    color: #333;
+}
+section a{
+    color: #e8511a;
+    text-decoration: none;
+    /* how to change the color of the link in css */
+
+}
+section a:hover{
+    color: #1911e8;
+}
